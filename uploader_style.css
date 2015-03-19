@@ -1,0 +1,26 @@
+#upload_form{
+	padding-top:10%;
+	padding-left:32%;
+	
+	
+}
+#select_image{
+	font-family:Tahoma;
+	font-weight:bold;
+	font-size:40px;
+	color:#3366FF;
+	
+}
+body{
+	background-color:#CCFFFF;
+	opacity:0.7;
+}
+
+#upload_button{
+	height:30px;
+	border-radius:25px;
+	
+}
+#fileToUpload{
+	height:30px;
+	}
